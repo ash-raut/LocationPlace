@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+   <string name="pick_action">Pick a place</string>
+
+    <string name="detail_text">Address:   %1$s\n\n%2$s</string>
+
+    <string name="empty"></string>
+</resources>
